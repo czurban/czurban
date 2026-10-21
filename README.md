@@ -1,16 +1,47 @@
-## Hi there 👋
+! About Me
 
-<!--
-**czurban/czurban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Full-Stack Developer specializing in the modern React / TypeScript ecosystem and Node.js / Express backend development.
 
-Here are some ideas to get you started:
+ Gained commercial experience as a Trainee Frontend Developer at DataArt, working in an Agile environment with Git and modern UI practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Currently pursuing an Engineering degree at Akademia WSEI in Lublin (2024 – Present).
+
+ Passionate about writing clean, scalable code, building responsive interfaces with Tailwind CSS, and deploying full-stack applications using MERN and Docker.
+
+ Open to Junior / Trainee Full-Stack or Frontend opportunities where I can bring value to real-world projects.
+
+! Tech Stack & Tools
+
+  Frontend
+
+  Backend & Database
+
+  Tools & Environment
+
+! Featured Projects
+
+$ True Thoughts — Full-Stack MERN Application
+
+  Tech: React • Node.js • Express • MongoDB Atlas • Axios • Vercel Serverless
+
+  Built a full-stack real-time application for publishing and managing posts using a decoupled client-server architecture.
+
+  Designed a RESTful API with Express and Mongoose for full CRUD functionality.
+
+  Configured production deployment on Vercel using Serverless Functions with custom CORS policies and optimized routing.
+
+  [GitHub Repo](https://github.com/czurban/true-thoughts) | [Live Demo](https://true-thoughts-jwbs-omega.vercel.app/)
+
+$ E-Commerce Web Application
+
+  Tech: React • TypeScript • Tailwind CSS • React Router • Axios
+
+  Designed and developed a fully responsive modern e-commerce storefront.
+
+  Implemented dynamic client-side routing and advanced shopping cart state management.
+
+  Integrated with an external REST API to asynchronously fetch, search, and filter product catalogs.
+
+  [GitHub Repo](https://github.com/czurban/online-shop) | [Live Demo](https://online-shop-plum-iota.vercel.app/)
+
+! GitHub Stats
