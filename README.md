@@ -1,4 +1,4 @@
-! About Me
+👨‍💻 About Me
 
  Full-Stack Developer specializing in the modern React / TypeScript ecosystem and Node.js / Express backend development.
 
@@ -10,7 +10,7 @@
 
  Open to Junior / Trainee Full-Stack or Frontend opportunities where I can bring value to real-world projects.
 
-! Tech Stack & Tools
+🛠️ Tech Stack & Tools
 
   Frontend
 
@@ -18,9 +18,9 @@
 
   Tools & Environment
 
-! Featured Projects
+🏆 Featured Projects
 
-$ True Thoughts — Full-Stack MERN Application
+💭 True Thoughts — Full-Stack MERN Application
 
   Tech: React • Node.js • Express • MongoDB Atlas • Axios • Vercel Serverless
 
@@ -32,7 +32,7 @@ $ True Thoughts — Full-Stack MERN Application
 
   [GitHub Repo](https://github.com/czurban/true-thoughts) | [Live Demo](https://true-thoughts-jwbs-omega.vercel.app/)
 
-$ E-Commerce Web Application
+🛒 E-Commerce Web Application
 
   Tech: React • TypeScript • Tailwind CSS • React Router • Axios
 
@@ -44,4 +44,4 @@ $ E-Commerce Web Application
 
   [GitHub Repo](https://github.com/czurban/online-shop) | [Live Demo](https://online-shop-plum-iota.vercel.app/)
 
-! GitHub Stats
+📊 GitHub Stats
